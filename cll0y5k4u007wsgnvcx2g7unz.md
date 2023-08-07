@@ -4,6 +4,7 @@ datePublished: Mon Aug 07 2023 13:38:09 GMT+0000 (Coordinated Universal Time)
 cuid: cll0y5k4u007wsgnvcx2g7unz
 slug: why-you-need-virtual-networks-for-your-business
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691417238770/9b20210b-82d8-4cbb-9df9-e0f9235f9d4f.jpeg
+tags: azure, vpn, vnets
 
 ---
 

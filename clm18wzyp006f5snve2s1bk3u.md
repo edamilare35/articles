@@ -3,6 +3,7 @@ title: "Building a Function App with a Webhook: Sending Hello Messages with Your
 datePublished: Fri Sep 01 2023 23:41:57 GMT+0000 (Coordinated Universal Time)
 cuid: clm18wzyp006f5snve2s1bk3u
 slug: building-a-function-app-with-a-webhook-sending-hello-messages-with-your-name
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693613707744/5bddda3a-9b82-4088-9526-f9455305452b.png
 
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: "Building a Function App with a Webhook: Sending Hello Messages with Your Name😎"
+seoTitle: "Building a function app"
 datePublished: Fri Sep 01 2023 23:41:57 GMT+0000 (Coordinated Universal Time)
 cuid: clm18wzyp006f5snve2s1bk3u
 slug: building-a-function-app-with-a-webhook-sending-hello-messages-with-your-name
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693613707744/5bddda3a-9b82-4088-9526-f9455305452b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693613790795/458fb6f5-005d-4424-a1a3-401d2f000cb5.png
+tags: app-development, azure
 
 ---
 
